@@ -6,7 +6,10 @@ class Sandwich
 
 end
 
-new_sandwich = Sandwich.new
+# Test data
+sandwich_1 = Sandwich.new
+sandwich_2 = Sandwich.new
+sandwich_3 = Sandwich.new
 
 binding.pry
 puts "Goodbye!"
