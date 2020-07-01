@@ -1,6 +1,6 @@
 # Build a Sandwich
 
-Work with  your partner in `sandwich.rb` to build the deliverables. To get started, have everyone `fork` and `clone` the pair programming challenges repository. Navigate with `cd` into `01-ruby-objects-build-a-sandwich` and try to run the file with `ruby sandwich.rb`.
+Work with  your partner in `sandwich.rb` to build the deliverables. To get started, have everyone `clone` the pair programming challenges repository. Navigate with `cd` into `01-ruby-objects-build-a-sandwich` and try to run the file with `ruby sandwich.rb`.
 
 Important: This challenge doesn't have tests so you'll need to manually test your work using `pry`.
 
@@ -19,7 +19,7 @@ Important: This challenge doesn't have tests so you'll need to manually test you
 - To reiterate, you'll need these attributes: `name`, `price`, `ingredients`, `bread`, `isVegetarian?`, `isVegan?`, `ratings`
 - To reiterate, you'll need to build these methods in addition to any getters/readers and setters/writers you'll need: `#order`, `#average_rating`
 
-Recommended workflow:
+## Recommended workflow:
 
 - Take turns being the driver. I'd recommend switching every fifteen or twenty minutes.
 - If anyone has a question, look it up together!
