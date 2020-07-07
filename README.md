@@ -6,6 +6,6 @@ If you choose to `fork` this repo, you'll need to run this command once you've c
 
 ```git remote add upstream https://github.com/brewchetta/pair-programming-challenges-061520.git```
 
-This will give you the additional option to pull the new work from the original, unforked repo whenever it changes.
+This will give you the additional option to pull new challenges whenever they're released on the main fork.
 
 On your local machine, whenever a new challenge gets released you can update the repo by navigating to `pair-programming-challenges-061520` and doing `git pull`. If you forked the repo, you can instead do `git pull upstream`. You may have to commit your changes first with `git add . && git commit -m "your message here"`.
