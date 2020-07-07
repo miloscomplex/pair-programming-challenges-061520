@@ -18,7 +18,7 @@ Important: This challenge doesn't have tests so you'll need to manually test you
 - BONUS: A sandwich has an `#average_rating` method which returns the average of that sandwich's `ratings`. Hint: Look up documentation on the `inject` or `reduce` methods.
 
 - To reiterate, you'll need these attributes: `name`, `price`, `ingredients`, `bread`, `isVegetarian?`, `isVegan?`, `ratings`
-- To reiterate, you'll need to build these methods in addition to any getters/readers and setters/writers you'll need: `#order`, `#add_rating`, `#average_rating`
+- To reiterate, you'll need to build these methods in addition to any readers / writers / accessors: `#order`, `#add_rating`, `#average_rating`
 - If a deliverable is vague, use your common sense to interpret it. There's often no wrong solution!
 
 ## Recommended workflow:
