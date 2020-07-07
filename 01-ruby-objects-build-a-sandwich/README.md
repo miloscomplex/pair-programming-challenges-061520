@@ -1,6 +1,6 @@
 # Build a Sandwich
 
-Work with  your partner in `sandwich.rb` to build the deliverables. To get started, have everyone `clone` the pair programming challenges repository. Navigate with `cd` into `01-ruby-objects-build-a-sandwich` and run the main file with the command `ruby sandwich.rb`.
+Work with  your partner in `sandwich.rb` to build the deliverables. To get started, have everyone `clone` the pair programming challenges repository. Navigate with `cd` into `01-ruby-objects-build-a-sandwich` and open it with `code .` or `atom .` depending on your IDE. You can run the main file with the command `ruby sandwich.rb`.
 
 Important: This challenge doesn't have tests so you'll need to manually test your work using `pry`.
 
