@@ -10,7 +10,7 @@ Important: This challenge doesn't have tests so you'll need to manually test you
 - A sandwich has a `price` which can change.
 - A sandwich has `ingredients` which is an array of ingredients that make up the sandwich.
 - A sandwich has a `bread` type.
-- A sandwich has an `#order` method which tells us the sandwich's attributes: `"You ordered the Grilled Cheese which has cheddar cheese and monterey jack on sourdough. That will be $3.99 please!"`. Hint: The `#` denotes that this is an instance method that will be called similar to `sandwich_1.order`.
+- A sandwich has an `#order` method which tells us the sandwich's attributes: `"You ordered the Grilled Cheese which has cheddar cheese and monterey jack on sourdough. That will be $3.99 please!"`. Hint: The `#` denotes that this is an instance method that will be called similar to `grilled_cheese.order`.
 - A sandwich has the `isVegetarian?` attribute which is either `true` or `false`. This can be changed.
 - A sandwich has the `isVegan?` attribute which is either `true` or `false`. This can be changed. If the sandwich becomes vegan, it's also considered vegetarian. How can you change the setter method to make it so setting `isVegan?` to true also sets `isVegetarian?` to true?
 - A sandwich has a `ratings` attribute which is an array of different ratings between `1` to `5`.
