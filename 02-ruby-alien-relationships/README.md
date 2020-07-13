@@ -1,4 +1,4 @@
-# Aliens
+# Alien Dating App
 
 You've been asked to build an alien dating application! Work with  your partner in `Planet.rb` and `Alien.rb` in `lib/models` to complete the deliverables. To get started, `cd` into `02-ruby-alien-relationships` and open it with your IDE of choice. Be sure to `bundle install`. You can run the main file with the command `ruby bin/run.rb`.
 
