@@ -56,7 +56,7 @@ class Sandwich
 
 end
 
-# Test data
+# Test data modified 
 sandwich_1 = Sandwich.new("turkey club")
 sandwich_1.price = 3.00
 sandwich_1.ingredients = ["mayo","bacon","lettuce","tomato","turkey"]
