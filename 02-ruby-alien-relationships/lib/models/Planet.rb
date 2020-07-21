@@ -1,6 +1,8 @@
 class Planet
-
+  #A planet has an `#aliens` method that allows it to see all the aliens
+  #currently occupying it
   attr_reader :name
+  attr_accessor :aliens
 
   @@all = []
 
@@ -12,6 +14,12 @@ class Planet
 
   def self.all
     @@all
+  end
+
+  def aliens
+    # self.all.map {|alien| alien.name == self }
+    Alien.all.each {|alien| alient.planet == self }
+
   end
 
 end
