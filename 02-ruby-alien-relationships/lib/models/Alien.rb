@@ -27,6 +27,7 @@ class Alien
       if self.significant_other == alien.name
         alien.significant_other = nil
       end
+    end
     self.significant_other = nil
   end
 
