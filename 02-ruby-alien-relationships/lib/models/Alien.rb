@@ -37,6 +37,14 @@ class Alien
     end
   end
 
+  def self.singles
+    self.all.map {|alien| alien.significant_other == nil }
+  end
+
+  def self.dating
+    self.all.map {|alien| alient.significant_other != nil }
+  end
+
 
 
 end
